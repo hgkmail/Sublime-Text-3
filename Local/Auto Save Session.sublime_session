@@ -1,0 +1,979 @@
+{
+	"folder_history":
+	[
+		"/D/PKWeb"
+	],
+	"last_version": 3126,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 720.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"v",
+						"v-bind\t:prop=\"data\""
+					],
+					[
+						"input",
+						"input1"
+					],
+					[
+						"vue",
+						"vue\tVue instance"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"b",
+						"background"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 272.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 382.0
+			},
+			"console":
+			{
+				"height": 194.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/D/PKWeb/app/source/js/main.js",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/D/PKWeb/app/view/login/login.js",
+				"/D/PKWeb/app/view/login/login.less",
+				"/D/PKWeb/app/source/js/components/header/header.html",
+				"/D/PKWeb/app/source/js/components/header/header.js",
+				"/D/PKWeb/config/webpack/base/files.js",
+				"/D/PKWeb/app/source/css/login.less",
+				"/D/PKWeb/node_modules/.3.3.7@bootstrap/less/carousel.less",
+				"/D/PKWeb/app/source/css/login.css",
+				"/D/PKWeb/app/view/events/events.js",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+				"/D/PKWeb/package.json",
+				"/D/PKWeb/app/html/index.html",
+				"/C/Users/coderkim/Desktop/webpack-avalon2-SPA-seed-master/npm-scripts/del-build.script.js",
+				"/C/Users/coderkim/Desktop/webpack-avalon2-SPA-seed-master/npm-scripts/del-node_modules.script.js",
+				"/C/Users/coderkim/Desktop/webpack-avalon2-SPA-seed-master/package.json",
+				"/C/Users/coderkim/Desktop/关于6楼WiFi.txt",
+				"/D/Apache24/conf/httpd.conf",
+				"/C/Program Files (x86)/JetBrains/WebStorm 2016.3.3/bin/webstorm.exe.vmoptions",
+				"/C/Program Files (x86)/JetBrains/WebStorm 2016.3.3/bin/webstorm64.exe.vmoptions",
+				"/C/Users/coderkim/Desktop/img.html",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityresult/action/ActivityResultActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityresult/action/ActivityResultAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/evaluationfinalresult/action/EvaluationFinalResultActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/evaluationfinalresult/action/EvaluationFinalResultAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/apply/action/ApplyActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/apply/action/ApplyAction.java",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/cn.com.ava.lessonevaluation.admin/src/main/webapp/upload/activity/attachment/2/2.txt",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityevaluation/action/ActivityEvaluationAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityevaluation/action/ActivityEvaluationActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityaward/action/ActivityAwardActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityaward/action/ActivityAwardAction.java",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/selector.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/select.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/list.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/item.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/edit.jsp",
+				"/D/AVA/code/src/main/resources/cn/com/ava/lessonevaluation/biz/activity/conf/Activity.hbm.xml",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/other.jsp",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/entity/Activity.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dto/ActivityDTOMapper.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dto/ActivityDTO.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dao/impl/ActivityDaoImpl.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/action/ActivityActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/action/ActivityAction.java",
+				"/D/AVA/code/src/main/webapp/js/app/ajax/biz/activityajax.js",
+				"/D/AVA/code/src/main/resources/cn/com/ava/lessonevaluation/biz/activity/conf/activity-struts.xml",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/service/impl/ActivityServiceImpl.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dao/ActivityDao.java",
+				"/C/Users/coderkim/Desktop/hibernate-mapping-3.0.dtd",
+				"/C/Users/coderkim/Desktop/jAVAGen/jAVA/templates/other.ftl",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/webMaven.bat",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/taskMaven.bat",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/maven.bat",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/init.bat",
+				"/D/JAVA_APP/apache-maven-3.3.9/conf/settings.xml",
+				"/D/JAVA_APP/cn.com.ava.school.maven/init.bat",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/other.jsp",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/noticetype/other.jsp",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/noticetype/action/NoticeTypeActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/dto/NoticeDTO.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/dao/NoticeDao.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/action/NoticeActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/action/NoticeAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/entity/Notice.java",
+				"/D/AVA/code/src/main/java/biznotice/action/BizNoticeActionUI.java",
+				"/D/AVA/code/src/main/java/biznotice/action/BizNoticeAction.java",
+				"/D/JAVA_APP/.gitignore",
+				"/D/AVA/nginx/conf/nginx.conf",
+				"/D/nginx/conf/nginx.conf",
+				"/C/Users/coderkim/AppData/Local/Temp/tmp7A5D.tmp.java",
+				"/C/Users/coderkim/AppData/Local/Temp/tmp5AE1.tmp.java",
+				"/D/es-master/web/src/main/resources/resources.properties",
+				"/C/Users/coderkim/Desktop/resources.properties",
+				"/D/AVA/nginx/conf/mime.types",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_mp4.html",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_m3u8_encrypt.html",
+				"/C/Users/coderkim/Desktop/hosts",
+				"/D/nginx-1.10.1/html/live.htm",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/host-manager.2016-04-22.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/catalina.2016-04-22.log",
+				"/C/Users/coderkim/Desktop/BaiduT5Player/demo/demo_playlist.html",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_flv.html",
+				"/D/Apache24/htdocs/crossdomain.xml",
+				"/C/Users/coderkim/Desktop/百度云直播相关配置.txt",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_m3u8.html",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/bin/logs/error.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/error.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/localhost.2016-04-22.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/localhost_access_log.2016-04-22.txt",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/warn.log",
+				"/D/Apache24/bin/ser.bat",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_srt.html",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_playlist.html",
+				"/D/Apache24/htdocs/index.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_m3u8.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/player/cyberplayer.js",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/demo/assets/thumbs.vtt",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_playlist.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_m3u8.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_flv.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player-SDK-Web-v2.1.5/player/cyberplayer.js",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.Final/hibernate-core-3.6.0.Final.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.FinalAVA/hibernate-core-3.6.0.FinalAVA.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/net/sf/ehcache/ehcache-web/2.0.4.ava/ehcache-web-2.0.4.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.FinalAVA/hibernate-core-3.6.0.Final.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.FinalAVA/hibernate-core-3.6.0.FinalAVA.pom.lastUpdated",
+				"/D/JAVA_APP/cn.com.ava.school.maven/adminMaven.bat",
+				"/E/141机器的专递课堂数据/zdkt.sql",
+				"/C/xunlei/logs/admin-error.log.2017-01-03",
+				"/C/Users/coderkim/Desktop/registersign.jsp",
+				"/C/Users/coderkim/Desktop/registersign.jsp-copy.jsp",
+				"/C/Users/coderkim/Desktop/registersign.jsp-lang.xml",
+				"/C/Users/coderkim/Desktop/registersign.jsp-res.java",
+				"/C/Users/coderkim/Desktop/biz-course-list.jsp",
+				"/C/Users/coderkim/Desktop/new-biz-course-list.jsp",
+				"/C/Users/coderkim/Downloads/av_reg.dat",
+				"/C/xunlei/logs/admin-error.log"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"div",
+					"\t\t\t\n",
+					"banner",
+					"activity",
+					"BANNER",
+					"Banner",
+					"Activity",
+					"element column",
+					"colum",
+					"school",
+					"kim",
+					"9070",
+					"servername",
+					"c:",
+					"d",
+					"SingleUpload",
+					"@#",
+					"#",
+					"[",
+					"%>",
+					"<%",
+					"%>",
+					"<%",
+					"replace",
+					"zdkt",
+					"\\n",
+					"123",
+					"\\n",
+					"44",
+					"\\n",
+					"ifnull",
+					"\\n",
+					"?",
+					"\\n",
+					"44",
+					"\\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cover",
+					"apply",
+					"COVER",
+					"Cover",
+					"Apply",
+					"lessonevaluation",
+					"</jsp>",
+					"<jsp>",
+					"/>",
+					"<jsp",
+					"courtaudio",
+					" ",
+					":cityMapId",
+					" ",
+					":provinceMapId",
+					" ",
+					":cityMapId",
+					":provinceMapId",
+					" ",
+					"?",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1427.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"modal",
+						"modalVisible"
+					],
+					[
+						"on",
+						"onHideModal"
+					],
+					[
+						"te",
+						"template"
+					],
+					[
+						"ti",
+						"title\t<title>"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"sty",
+						"style\t<style>"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"sta",
+						"status\tjsWindow"
+					],
+					[
+						"task",
+						"tasks"
+					],
+					[
+						"me",
+						"message"
+					],
+					[
+						"ev",
+						"event"
+					],
+					[
+						"log",
+						"log\tjsMath"
+					],
+					[
+						"fun",
+						"function\tjsProp"
+					],
+					[
+						"click",
+						"clickAdd"
+					],
+					[
+						"v",
+						"v-bind\t:prop=\"data\""
+					],
+					[
+						"input",
+						"input1"
+					],
+					[
+						"vue",
+						"vue\tVue instance"
+					],
+					[
+						"b",
+						"background"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/PKWeb/app/html/login.html",
+					"settings":
+					{
+						"buffer_size": 924,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/coderkim/Desktop/LearnVuejs/LearnVuejs1.html",
+					"settings":
+					{
+						"buffer_size": 1921,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/coderkim/Desktop/LearnVuejs/LearnVuejs1.js",
+					"settings":
+					{
+						"buffer_size": 759,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"view",
+						"View In Browser"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 382.0
+			},
+			"console":
+			{
+				"height": 194.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/PKWeb",
+				"/D/PKWeb/app",
+				"/D/PKWeb/app/html",
+				"/D/PKWeb/app/source",
+				"/D/PKWeb/app/source/js",
+				"/D/PKWeb/app/static",
+				"/D/PKWeb/app/view",
+				"/D/PKWeb/app/view/login",
+				"/D/PKWeb/config",
+				"/D/PKWeb/config/webpack",
+				"/D/PKWeb/config/webpack/base"
+			],
+			"file_history":
+			[
+				"/C/Users/coderkim/Desktop/LearnVuejs/LearnVuejs1.vue",
+				"/C/Users/coderkim/Desktop/LearnVuejs/LearnVuejs1.js",
+				"/C/Users/coderkim/Desktop/LearnVuejs1.html",
+				"/D/PKWeb/LearnVuejs1.js",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/D/PKWeb/app/source/js/main.js",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/D/PKWeb/app/view/login/login.js",
+				"/D/PKWeb/app/view/login/login.less",
+				"/D/PKWeb/app/source/js/components/header/header.html",
+				"/D/PKWeb/app/source/js/components/header/header.js",
+				"/D/PKWeb/config/webpack/base/files.js",
+				"/D/PKWeb/app/source/css/login.less",
+				"/D/PKWeb/node_modules/.3.3.7@bootstrap/less/carousel.less",
+				"/D/PKWeb/app/source/css/login.css",
+				"/D/PKWeb/app/view/events/events.js",
+				"/C/Users/coderkim/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+				"/D/PKWeb/package.json",
+				"/D/PKWeb/app/html/index.html",
+				"/C/Users/coderkim/Desktop/webpack-avalon2-SPA-seed-master/npm-scripts/del-build.script.js",
+				"/C/Users/coderkim/Desktop/webpack-avalon2-SPA-seed-master/npm-scripts/del-node_modules.script.js",
+				"/C/Users/coderkim/Desktop/webpack-avalon2-SPA-seed-master/package.json",
+				"/C/Users/coderkim/Desktop/关于6楼WiFi.txt",
+				"/D/Apache24/conf/httpd.conf",
+				"/C/Program Files (x86)/JetBrains/WebStorm 2016.3.3/bin/webstorm.exe.vmoptions",
+				"/C/Program Files (x86)/JetBrains/WebStorm 2016.3.3/bin/webstorm64.exe.vmoptions",
+				"/C/Users/coderkim/Desktop/img.html",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityresult/action/ActivityResultActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityresult/action/ActivityResultAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/evaluationfinalresult/action/EvaluationFinalResultActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/evaluationfinalresult/action/EvaluationFinalResultAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/apply/action/ApplyActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/apply/action/ApplyAction.java",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/cn.com.ava.lessonevaluation.admin/src/main/webapp/upload/activity/attachment/2/2.txt",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityevaluation/action/ActivityEvaluationAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityevaluation/action/ActivityEvaluationActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityaward/action/ActivityAwardActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activityaward/action/ActivityAwardAction.java",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/selector.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/select.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/list.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/item.jsp",
+				"/D/AVA/code/src/main/webapp/WEB-INF/jsp/biz/activity/edit.jsp",
+				"/D/AVA/code/src/main/resources/cn/com/ava/lessonevaluation/biz/activity/conf/Activity.hbm.xml",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/other.jsp",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/entity/Activity.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dto/ActivityDTOMapper.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dto/ActivityDTO.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dao/impl/ActivityDaoImpl.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/action/ActivityActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/action/ActivityAction.java",
+				"/D/AVA/code/src/main/webapp/js/app/ajax/biz/activityajax.js",
+				"/D/AVA/code/src/main/resources/cn/com/ava/lessonevaluation/biz/activity/conf/activity-struts.xml",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/service/impl/ActivityServiceImpl.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/activity/dao/ActivityDao.java",
+				"/C/Users/coderkim/Desktop/hibernate-mapping-3.0.dtd",
+				"/C/Users/coderkim/Desktop/jAVAGen/jAVA/templates/other.ftl",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/webMaven.bat",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/taskMaven.bat",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/maven.bat",
+				"/D/JAVA_APP/cn.com.ava.lessonevaluation.maven/init.bat",
+				"/D/JAVA_APP/apache-maven-3.3.9/conf/settings.xml",
+				"/D/JAVA_APP/cn.com.ava.school.maven/init.bat",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/other.jsp",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/noticetype/other.jsp",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/noticetype/action/NoticeTypeActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/dto/NoticeDTO.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/dao/NoticeDao.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/action/NoticeActionUI.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/action/NoticeAction.java",
+				"/D/AVA/code/src/main/java/cn/com/ava/lessonevaluation/biz/notice/entity/Notice.java",
+				"/D/AVA/code/src/main/java/biznotice/action/BizNoticeActionUI.java",
+				"/D/AVA/code/src/main/java/biznotice/action/BizNoticeAction.java",
+				"/D/JAVA_APP/.gitignore",
+				"/D/AVA/nginx/conf/nginx.conf",
+				"/D/nginx/conf/nginx.conf",
+				"/C/Users/coderkim/AppData/Local/Temp/tmp7A5D.tmp.java",
+				"/C/Users/coderkim/AppData/Local/Temp/tmp5AE1.tmp.java",
+				"/D/es-master/web/src/main/resources/resources.properties",
+				"/C/Users/coderkim/Desktop/resources.properties",
+				"/D/AVA/nginx/conf/mime.types",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_mp4.html",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_m3u8_encrypt.html",
+				"/C/Users/coderkim/Desktop/hosts",
+				"/D/nginx-1.10.1/html/live.htm",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/host-manager.2016-04-22.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/catalina.2016-04-22.log",
+				"/C/Users/coderkim/Desktop/BaiduT5Player/demo/demo_playlist.html",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_flv.html",
+				"/D/Apache24/htdocs/crossdomain.xml",
+				"/C/Users/coderkim/Desktop/百度云直播相关配置.txt",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_m3u8.html",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/bin/logs/error.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/error.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/localhost.2016-04-22.log",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/localhost_access_log.2016-04-22.txt",
+				"/D/JAVA_APP/apache-tomcat-7.0.69/logs/warn.log",
+				"/D/Apache24/bin/ser.bat",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_srt.html",
+				"/D/Apache24/htdocs/BaiduT5Player/demo/demo_playlist.html",
+				"/D/Apache24/htdocs/index.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_m3u8.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/player/cyberplayer.js",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/demo/assets/thumbs.vtt",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_playlist.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_m3u8.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player-SDK-Web-v2.1.5/demo/demo_flv.html",
+				"/C/Users/coderkim/Desktop/Baidu-T5Player-SDK-Web-v2.1.5/player/cyberplayer.js",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.Final/hibernate-core-3.6.0.Final.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.FinalAVA/hibernate-core-3.6.0.FinalAVA.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/net/sf/ehcache/ehcache-web/2.0.4.ava/ehcache-web-2.0.4.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.FinalAVA/hibernate-core-3.6.0.Final.pom",
+				"/D/JAVA_APP/apache-maven-3.3.9/repository/org/hibernate/hibernate-core/3.6.0.FinalAVA/hibernate-core-3.6.0.FinalAVA.pom.lastUpdated",
+				"/D/JAVA_APP/cn.com.ava.school.maven/adminMaven.bat",
+				"/E/141机器的专递课堂数据/zdkt.sql",
+				"/C/xunlei/logs/admin-error.log.2017-01-03",
+				"/C/Users/coderkim/Desktop/registersign.jsp",
+				"/C/Users/coderkim/Desktop/registersign.jsp-copy.jsp",
+				"/C/Users/coderkim/Desktop/registersign.jsp-lang.xml"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"div",
+					"\t\t\t\n",
+					"banner",
+					"activity",
+					"BANNER",
+					"Banner",
+					"Activity",
+					"element column",
+					"colum",
+					"school",
+					"kim",
+					"9070",
+					"servername",
+					"c:",
+					"d",
+					"SingleUpload",
+					"@#",
+					"#",
+					"[",
+					"%>",
+					"<%",
+					"%>",
+					"<%",
+					"replace",
+					"zdkt",
+					"\\n",
+					"123",
+					"\\n",
+					"44",
+					"\\n",
+					"ifnull",
+					"\\n",
+					"?",
+					"\\n",
+					"44",
+					"\\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cover",
+					"apply",
+					"COVER",
+					"Cover",
+					"Apply",
+					"lessonevaluation",
+					"</jsp>",
+					"<jsp>",
+					"/>",
+					"<jsp",
+					"courtaudio",
+					" ",
+					":cityMapId",
+					" ",
+					":provinceMapId",
+					" ",
+					":cityMapId",
+					":provinceMapId",
+					" ",
+					"?",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\PKWeb"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/PKWeb/app/html/login.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 924,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										868,
+										868
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/coderkim/Desktop/LearnVuejs/LearnVuejs1.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1921,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										920,
+										920
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 373.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/coderkim/Desktop/LearnVuejs/LearnVuejs1.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 759,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										97,
+										97
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,983,199,204,1642",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
